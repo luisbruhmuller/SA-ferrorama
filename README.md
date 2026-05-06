@@ -1,0 +1,1 @@
+Esse Repositorio é destinado a Situação de aprendizagem do curso de desenvolvimento de sistemas do senai onde os alunos deveram mostrar na pratica as habilidades desenvolvidas durante o curso fazendo 
