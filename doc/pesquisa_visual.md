@@ -15,3 +15,11 @@ Nesse tópico iremos analisar as nossas cores principais e os motivos das escolh
 * ⬜ A cor Branca serve para transmitir elegância e minimalismo, sendo mais uma cor coringa que funciona com quase tudo! 
 
 ---
+
+## 🧠 Tipografia 
+
+Agora iremos nos aprofundar sobre a parte da Tipografia do Site.
+
+* **As letras** : A tipografia das letras do nosso site, foi produzida com o objetivo de passar uma mensagem funcional e corporativa, sem muita extravagância, com fontes tendo traços mais limpos e simples, para passar um ar mais profissional e sério, oque colabora muito com as escolhas das cores, que seguem na mesma linha. 
+
+* **A nossa Marca** : A nossa marca, sempre está sendo exposta em algum lugar da tela, fazendo que o nosso trabalho seja associado ao nosso nome, sempre aparecendo com fontes maiores doque das outras partes do site.
