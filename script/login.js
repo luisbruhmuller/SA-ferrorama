@@ -1,4 +1,4 @@
-document.getElementById("enviar_login")?.addEventListener("click", function () {
+document.getElementById("enviar_login").addEventListener("click", function () {
 
     const login = document.getElementById("login-login").value;
     const senha = document.getElementById("login-senha").value;
@@ -9,19 +9,25 @@ document.getElementById("enviar_login")?.addEventListener("click", function () {
         u.login === login && u.senha === senha
     );
 
-    const sucesso = document.getElementById("alert-login-sucesso");
-    const erro = document.getElementById("alert-login-erro");
+    const sucesso = document.getElementById("alert-sucesso");
+    const erro = document.getElementById("alert-erro");
 
-    sucesso?.classList.add("d-none");
-    erro?.classList.add("d-none");
+    sucesso.classList.add("d-none");
+    erro.classList.add("d-none");
 
     if (usuarioEncontrado) {
-        sucesso?.classList.remove("d-none");
+
+        sucesso.classList.remove("d-none");
+
+        setTimeout(() => {
+            
+        }, 800);
+
     } else {
-        erro?.classList.remove("d-none");
+
+        erro.classList.remove("d-none");
     }
 });
-
 
 document.getElementById("enviar_cadastro").addEventListener("click", function () {
 
