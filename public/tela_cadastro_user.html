@@ -53,28 +53,33 @@
                                         <input type="password" class="form-control" placeholder="••••••••" id="senha" />
                                     </div>
                                 </div>
+
                                 <div class="mb-3">
                                     <label class="form-label fw-semibold">Repetir senha</label>
                                     <div class="input-group">
                                         <span class="input-group-text"><i class="bi bi-lock"></i></span>
-                                        <input type="password" class="form-control" placeholder="••••••••" id="senha" />
+                                        <input type="password" class="form-control" placeholder="••••••••"
+                                            id="confirmar-senha" />
                                     </div>
                                 </div>
 
-                                <button id="enviar" class="btn btn-warning w-100 fw-semibold" type="button">
+                                <button id="enviar_cadastro" class="btn btn-warning w-100 fw-semibold" type="button">
                                     <i class="bi bi-box-arrow-in-right me-2"></i>
                                     Cadastrar usuário
                                 </button>
-                                <hr />
-                                <div class="alert alert-success" role="alert">
+                                <div id="alert-sucesso" class="alert alert-success d-none" role="alert">
                                     Usuário cadastrado com sucesso!
-                                  </div>
+                                </div>
+
+                                <div id="alert-erro" class="alert alert-danger d-none" role="alert">
+                                    Erro ao cadastrar usuário!
+                                </div>
                             </div>
                         </div>
                         <br>
                         <div class="text-center">
                             <button type="button" class="btn btn-secondary">Voltar</button>
-                          </div>
+                        </div>
                     </div>
                 </div>
         </section>
