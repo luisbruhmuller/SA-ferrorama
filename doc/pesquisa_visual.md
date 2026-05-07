@@ -30,7 +30,30 @@ Agora iremos nos aprofundar sobre a parte da Tipografia do Site.
 
 ## 🧱 Estilo 
 
-O estilo do site segue a mesma linha do que foi feito falado anteriormente, usamos as cores principais como base e conforme a necessidade, nós adicionamos outras cores, como por exemplo com os Alertas, nós utilizamos cores como vermelho, para deixar o site com mais vida, tanto nos gráficos, quanto nos relatórios.
+O estilo do site segue a mesma linha do que foi falado anteriormente, usamos as cores principais como base e conforme a necessidade, nós adicionamos outras cores, como por exemplo com os Alertas, nós utilizamos cores como vermelho, para deixar o site com mais vida, tanto nos gráficos, quanto nos relatórios.
 
 --- 
+
+## 🛠️ Referências Visuais
+
+Nossas referências visuais seguem vários sites de monitoramento industrial, painéis administrativos e plataformas de gestão operacional, seguindo o padrão clássico de dashboard corporativo, como por exemplo na barra superior escura, que é algo adotado por vários sistemas industriais. e como dito anteriormente, nosso foco é a funcionalidade e objetividade.
+
+---
+
+## 👁️ Proposta Visual
+
+👇 A nossa proposta visual geral busca 👇
+
+* Facilitar navegação rápida.
+* Mostrar informações técnicas. 
+* transmitir confialibilidade.
+* Navbar Superior Fixa para melhor centralização.
+* Aréa Central em card, para criar um foco visual.
+* Cores apenas em botões importantes
+* Evitar excesso de informações 
+
+---
+
+
+
 
