@@ -11,10 +11,14 @@ document.getElementById("enviar").addEventListener("click", function () {
         usuario.senha === senha
     );
 
+    const alertaSucesso = document.getElementById("alert-sucesso");
+    const alertaErro = document.getElementById("alert-erro");
+    alertaSucesso.classList.add("d-none");
+    alertaErro.classList.add("d-none");
+
     if (usuarioEncontrado) {
-        alert("Login realizado!");
-        window.location.href = "home.html";
+        alertaSucesso.classList.remove("d-none");
     } else {
-        alert("Usuário ou senha inválidos!");
+        alertaErro.classList.remove("d-none");
     }
 });

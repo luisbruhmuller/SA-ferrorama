@@ -20,6 +20,17 @@ Nesse tópico iremos analisar as nossas cores principais e os motivos das escolh
 
 Agora iremos nos aprofundar sobre a parte da Tipografia do Site.
 
-* **As letras** : A tipografia das letras do nosso site, foi produzida com o objetivo de passar uma mensagem funcional e corporativa, sem muita extravagância, com fontes tendo traços mais limpos e simples, para passar um ar mais profissional e sério, oque colabora muito com as escolhas das cores, que seguem na mesma linha. 
+* 🎓 **As letras** : A tipografia das letras do nosso site, foi produzida com o objetivo de passar uma mensagem funcional e corporativa, sem muita extravagância, com fontes tendo traços mais limpos e simples, para passar um ar mais profissional e sério, oque colabora muito com as escolhas das cores, que seguem na mesma linha. 
 
-* **A nossa Marca** : A nossa marca, sempre está sendo exposta em algum lugar da tela, fazendo que o nosso trabalho seja associado ao nosso nome, sempre aparecendo com fontes maiores doque das outras partes do site.
+* ⚡ **A nossa Marca** : A nossa marca, sempre está sendo exposta em algum lugar da tela, fazendo que o nosso trabalho seja associado ao nosso nome, sempre aparecendo com fontes maiores doque das outras partes do site.
+
+* 🎯 **Estratégias** : Nossas estratégias consistem em transmitir tecnologia, organização, praticidade operacional e claro, como citado antes, o profissionalismo.
+
+---
+
+## 🧱 Estilo 
+
+O estilo do site segue a mesma linha do que foi feito falado anteriormente, usamos as cores principais como base e conforme a necessidade, nós adicionamos outras cores, como por exemplo com os Alertas, nós utilizamos cores como vermelho, para deixar o site com mais vida, tanto nos gráficos, quanto nos relatórios.
+
+--- 
+
