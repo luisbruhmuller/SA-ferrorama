@@ -22,6 +22,7 @@ document.getElementById("enviar_login").addEventListener("click", function () {
         setTimeout(() => {
             
         }, 800);
+        window.location.href = '../public/tela_geral_home.html'
 
     } else {
 
