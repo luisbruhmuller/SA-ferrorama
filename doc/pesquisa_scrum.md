@@ -75,7 +75,7 @@ A Sprint Review acontece ao final da Sprint. Nessa reunião, a equipe apresenta 
 
 A Sprint Retrospective é uma reunião de avaliação interna da equipe. que serve para ver oque funcionou bem, oque pode melhorar, Quais problemas ocorreram, como melhorar a próxima sprint.
 
-# Benefícios do uso do SCRUM em projetos de software. 
+# 🥇 Benefícios do uso do SCRUM em projetos de software. 
 
 * **Maior organização do projeto**
 * **Melhor comunicação entre os membros da equipe**
@@ -84,7 +84,7 @@ A Sprint Retrospective é uma reunião de avaliação interna da equipe. que ser
 * **Maior qualidade no software**
 * **Melhor acompanhamento do progresso do projeto**
 
-# Conclusão 
+# ⚙️ Conclusão 
 
 O SCRUM é uma metodologia ágil muito utilizada no desenvolvimento de software por proporcionar organização, flexibilidade e melhoria contínua.
 
