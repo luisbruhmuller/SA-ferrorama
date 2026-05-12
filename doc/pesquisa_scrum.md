@@ -17,4 +17,17 @@ O Scrum divide o trabalho em pequenos ciclos chamados Sprints (geralmente de 1 a
 * **Reduzir erros e retrabalho**
 * **Promover melhoria contínua**
 
+## 📝 Principais papéis
+
+O SCRUM possui três papéis fundamentais 👇
+
+## Product Owner
+
+O Product Owner (PO) é o responsável por definir as prioridades do projeto e representar os interesses do cliente. Sendo a voz do cliente dentro do projeto.
+
+Tendo seus objetivos 
+
+* **Tomada de Decisão**: ig0ijgihgi
+* ****
+
 
