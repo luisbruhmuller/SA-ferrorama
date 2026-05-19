@@ -75,17 +75,34 @@
                                         </select>
                                     </div>
                                 </div>
+                                <div class="mb-3">
+                                    <label class="form-label fw-semibold">Local de Instalação</label>
+                                    <div class="input-group">
+                                        <span class="input-group-text"><i class="bi bi-geo-alt"></i></span>
+                                        <input type="text" class="form-control" placeholder="Ex: Vagão 1 / Roda Dianteira"
+                                            id="localizacao" required />
+                                    </div>
+                                </div>
 
-                                <button id="enviar_cadastro" class="btn btn-warning w-100 fw-semibold" type="button">
-                                    <i class="bi bi-box-arrow-in-right me-2"></i>
-                                    Cadastrar usuário
+                                <div class="mb-4">
+                                    <label class="form-label fw-semibold">Limite Crítico Máximo</label>
+                                    <div class="input-group">
+                                        <span class="input-group-text"><i class="bi bi-exclamation-triangle"></i></span>
+                                        <input type="number" class="form-control" placeholder="Ex: 85"
+                                            id="limite_maximo" required />
+                                    </div>
+                                </div>
+
+                                <button id="enviar_cadastro" class="btn btn-warning w-100 fw-semibold mb-3" type="button">
+                                    <i class="bi bi-plus-circle-fill me-2"></i>
+                                    Cadastrar Sensor
                                 </button>
                                 <div id="alert-sucesso" class="alert alert-success d-none" role="alert">
-                                    Usuário cadastrado com sucesso!
+                                    Sensor cadastrado com sucesso!
                                 </div>
 
                                 <div id="alert-erro" class="alert alert-danger d-none" role="alert">
-                                    Erro ao cadastrar usuário!
+                                    Erro ao cadastrar o sensor! Verifique os dados.
                                 </div>
                             </div>
                         </div>
