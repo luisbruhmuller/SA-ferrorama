@@ -39,27 +39,40 @@
                                     <p class="text-muted small">Cadastrar Novo Sensor IoT</p>
                                 </div>
                                 <div class="mb-3">
-                                    <label class="form-label fw-semibold">E-mail do usuário</label>
+                                    <label class="form-label fw-semibold">Nome / Código do Sensor</label>
                                     <div class="input-group">
-                                        <span class="input-group-text"><i class="bi bi-envelope"></i></span>
-                                        <input type="email" class="form-control" placeholder="usuario@empresa.com"
-                                            id="login" />
+                                        <span class="input-group-text"><i class="bi bi-tag"></i></span>
+                                        <input type="text" class="form-control" placeholder="Ex: Sensor TMP-01"
+                                            id="nome_sensor" required />
                                     </div>
                                 </div>
                                 <div class="mb-3">
-                                    <label class="form-label fw-semibold">Senha do usuário</label>
+                                    <label class="form-label fw-semibold">Tipo de Sensor</label>
                                     <div class="input-group">
-                                        <span class="input-group-text"><i class="bi bi-lock"></i></span>
-                                        <input type="password" class="form-control" placeholder="••••••••" id="senha" />
+                                        <span class="input-group-text"><i class="bi bi-activity"></i></span>
+                                        <select class="form-select" id="tipo_sensor" required>
+                                            <option value="" selected disabled>Selecione o tipo...</option>
+                                            <option value="Temperatura">Temperatura</option>
+                                            <option value="Vibração">Vibração</option>
+                                            <option value="Consumo de Energia">Consumo de Energia</option>
+                                            <option value="Velocidade">Velocidade</option>
+                                        </select>
                                     </div>
                                 </div>
 
                                 <div class="mb-3">
-                                    <label class="form-label fw-semibold">Repetir senha</label>
+                                    <label class="form-label fw-semibold">Subsistema Vinculado</label>
                                     <div class="input-group">
-                                        <span class="input-group-text"><i class="bi bi-lock"></i></span>
-                                        <input type="password" class="form-control" placeholder="••••••••"
-                                            id="confirmar-senha" />
+                                        <span class="input-group-text"><i class="bi bi-gear"></i></span>
+                                        <select class="form-select" id="subsistema" required>
+                                            <option value="" selected disabled>Selecione o subsistema...</option>
+                                            <option value="Motor">Motor</option>
+                                            <option value="Elétrico">Elétrico</option>
+                                            <option value="Freios">Freios</option>
+                                            <option value="Comunicação">Comunicação</option>
+                                            <option value="Refrigeração">Refrigeração</option>
+                                            <option value="Câmeras">Câmeras</option>
+                                        </select>
                                     </div>
                                 </div>
 
