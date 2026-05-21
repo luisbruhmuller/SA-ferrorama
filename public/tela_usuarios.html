@@ -28,9 +28,10 @@
             <div class="p-4 bg-light flex-grow-1">
                 <div class="d-flex justify-content-between align-items-center mb-4">
                     <h5 class="mb-0 text-secondary fw-normal">Lista de Usuários Cadastrados</h5>
-                    <a href="tela_cadastro_usuarios.html" class="btn btn-primary"><i class="bi bi-person-plus-fill me-2"></i>Novo Usuário</a>
+                    <a id="openModal" class="btn btn-primary"><i
+                            class="bi bi-person-plus-fill me-2"></i>Novo Usuário</a>
                 </div>
-                
+
                 <div class="card shadow-sm border-0 rounded-3">
                     <div class="card-body p-0">
                         <div class="table-responsive">
@@ -50,33 +51,45 @@
                                         <th scope="row" class="ps-4">1</th>
                                         <td class="fw-medium">Roberto</td>
                                         <td>Carlos</td>
-                                        <td><span class="badge bg-primary bg-opacity-75 fw-normal px-2 py-1">Administrador</span></td>
+                                        <td><span
+                                                class="badge bg-primary bg-opacity-75 fw-normal px-2 py-1">Administrador</span>
+                                        </td>
                                         <td class="text-muted">roberto_carlos@gmail.com</td>
                                         <td class="text-end pe-4">
-                                            <button type="button" class="btn btn-sm btn-outline-secondary me-1" title="Editar"><i class="bi bi-pencil-square"></i></button>
-                                            <button type="button" class="btn btn-sm btn-outline-danger" title="Excluir"><i class="bi bi-trash"></i></button>
+                                            <button type="button" class="btn btn-sm btn-outline-secondary me-1"
+                                                title="Editar"><i class="bi bi-pencil-square"></i></button>
+                                            <button type="button" class="btn btn-sm btn-outline-danger"
+                                                title="Excluir"><i class="bi bi-trash"></i></button>
                                         </td>
                                     </tr>
                                     <tr>
                                         <th scope="row" class="ps-4">2</th>
                                         <td class="fw-medium">Gabriel</td>
                                         <td>Medeiros</td>
-                                        <td><span class="badge bg-secondary bg-opacity-75 fw-normal px-2 py-1">Técnico</span></td>
+                                        <td><span
+                                                class="badge bg-secondary bg-opacity-75 fw-normal px-2 py-1">Técnico</span>
+                                        </td>
                                         <td class="text-muted">gabriel_medeiros@gmail.com</td>
                                         <td class="text-end pe-4">
-                                            <button type="button" class="btn btn-sm btn-outline-secondary me-1" title="Editar"><i class="bi bi-pencil-square"></i></button>
-                                            <button type="button" class="btn btn-sm btn-outline-danger" title="Excluir"><i class="bi bi-trash"></i></button>
+                                            <button type="button" class="btn btn-sm btn-outline-secondary me-1"
+                                                title="Editar"><i class="bi bi-pencil-square"></i></button>
+                                            <button type="button" class="btn btn-sm btn-outline-danger"
+                                                title="Excluir"><i class="bi bi-trash"></i></button>
                                         </td>
                                     </tr>
                                     <tr>
                                         <th scope="row" class="ps-4">3</th>
                                         <td class="fw-medium">Dagoberto</td>
                                         <td>Junior</td>
-                                        <td><span class="badge bg-success bg-opacity-75 fw-normal px-2 py-1">Funcionário</span></td>
+                                        <td><span
+                                                class="badge bg-success bg-opacity-75 fw-normal px-2 py-1">Funcionário</span>
+                                        </td>
                                         <td class="text-muted">dagoberto_junior@gmail.com</td>
                                         <td class="text-end pe-4">
-                                            <button type="button" class="btn btn-sm btn-outline-secondary me-1" title="Editar"><i class="bi bi-pencil-square"></i></button>
-                                            <button type="button" class="btn btn-sm btn-outline-danger" title="Excluir"><i class="bi bi-trash"></i></button>
+                                            <button type="button" class="btn btn-sm btn-outline-secondary me-1"
+                                                title="Editar"><i class="bi bi-pencil-square"></i></button>
+                                            <button type="button" class="btn btn-sm btn-outline-danger"
+                                                title="Excluir"><i class="bi bi-trash"></i></button>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -92,8 +105,8 @@
 
 
 
-
-
+            <div id="modalContainer"></div>
+            <script src="../script/popup.js"></script>
             <script src="../script/validacao.js"></script>
 </body>
 
