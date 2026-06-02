@@ -67,6 +67,9 @@ A Sprint Planning é a reunião de planejamento da Sprint. ela ocorre no início
 
 A Daily Scrum é uma reunião diária rápida, geralmente com duração de 15 minutos. Cada integrante responde, oque fez no dia anterior, oque fará no dia atual, Se existe algum problema aparente.
 
+## Exemplo de daily
+Video exemplo daily:
+
 ## Sprint Review
 
 A Sprint Review acontece ao final da Sprint. Nessa reunião, a equipe apresenta as funcionalidades desenvolvidas para clientes e stakeholders. Assim, demonstrando resultados de forma eficiente.
