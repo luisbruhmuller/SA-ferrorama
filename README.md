@@ -1,6 +1,6 @@
-# 🚆 Sistema de Gerenciamento Ferroviário
+#  Sistema de Gerenciamento Ferroviário
 
-## 📚 Sobre o Projeto
+##  Sobre o Projeto
 
 Este repositório foi desenvolvido como parte da **Situação de Aprendizagem** do curso de **Desenvolvimento de Sistemas do SENAI**.
 
@@ -8,7 +8,7 @@ O objetivo principal é permitir que os alunos demonstrem, na prática, as habil
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Desenvolver um sistema capaz de gerenciar operações ferroviárias, incluindo:
 
@@ -20,7 +20,7 @@ Desenvolver um sistema capaz de gerenciar operações ferroviárias, incluindo:
 
 ---
 
-## 🛠️ Tecnologias e Conceitos Envolvidos
+##  Tecnologias e Conceitos Envolvidos
 
 O projeto envolve diversas áreas do desenvolvimento de sistemas:
 
@@ -32,7 +32,7 @@ O projeto envolve diversas áreas do desenvolvimento de sistemas:
 
 ---
 
-## 🚧 Funcionalidades Esperadas
+##  Funcionalidades Esperadas
 
 * Cadastro e gerenciamento de trens
 * Controle de horários e itinerários
@@ -43,8 +43,8 @@ O projeto envolve diversas áreas do desenvolvimento de sistemas:
 
 ---
 
-## 📌 Status do Projeto
+##  Status do Projeto
 
-🚧 Em desenvolvimento
+ Em desenvolvimento
 
 ---
