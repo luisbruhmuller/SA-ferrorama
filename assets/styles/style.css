@@ -37,3 +37,10 @@
   width: 400px;
 
 }
+
+.gordo-holding-card{
+  display: flex;
+  img{
+    width: 10px;
+  }
+}
