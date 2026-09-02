@@ -55,6 +55,21 @@ O projeto envolve diversas áreas do desenvolvimento de sistemas:
 
  Todas essas metodologias nos ajudarão a entregar o melhor produto possível, fornecendo organização, qualidade e produtividade.
 
- 
+ ---
+
+ ## Novas ferramentas
+
+Agora nessa nova etapa do projeto, iremos utilizar novas ferramentas para implementar nossos novos objetivos como:
+
+* **PHP**: Após termos encaminhado bem a parte em HTML das telas, iremos implementar a linguagem PHP nos códigos. 
+E uma das operações que mais daremos destaque é o CRUD(Create, Read, Update, Delete), pois para essa nova etapa, iremos implementar a parte de backend do projeto,
+Que contará com essas partes de cadastro, e administração de entidades que no caso são os usuários, os sensores e etc..
+
+* **XAMPP**: O XAMPP é um acrônimo para **X**: Multiplataforma, **A**: Apache, **M**: Maria Db/ MySQL, **P**: PHP(linguagem de programação), **P**: Perl(Linguagem de programação).E o XAMPP serve basicamente para rodar sistemas direto na máquina, e simular um servidor real, criando um ambiente controlado para rodar códigos e testar banco de dados, sem precisar colocar o site no ar.
+
+* **Banco de Dados**: O Banco de dados é como se fosse a biblioteca do projeto, ele vai armazenar todos os dados cadastrados, e utilizando o SQL(linguagem de banco de dados), que assim criaremos os bancos de dados, e suas tabelas, assim quando estivermos fazendo o código, graças a conexão com o banco feita pelo **PHP**, e o servidor local do **XAMPP**, as telas estarão funcionando, e o projeto será concluído assim.
+
+* **Conclusão**: A Conclusão final sobre essa etapa é que todas as metodologias que utilizaremos, e todas as novas ferramentas, trabalharão juntos para o projeto ser concluído.
+
 
 ---
