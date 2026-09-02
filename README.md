@@ -45,6 +45,16 @@ O projeto envolve diversas áreas do desenvolvimento de sistemas:
 
 ##  Status do Projeto
 
- Em desenvolvimento
+ Agora o foco do nosso projeto é outro, agora iremos alterar nossos códigos, melhorar nossas funcionalidades, tudo isso de maneira organizada, utilizando novas metodologias de desenvolvimento, como:
+
+ * **SCRUM**: Scrum é uma metodologia ágil usada principalmente no desenvolvimento de software, mas também pode ser aplicada em outros tipos de projetos. Ela ajuda equipes a trabalharem de forma organizada, colaborativa e adaptável.
+
+ * **Kanban**: É um sistema visual de gestão de trabalho que usa cartões e colunas em um quadro para controlar o fluxo de tarefas de forma ágil e eficiente.
+
+ * **XP**: O XP (Extreme Programming) é uma metodologia ágil de desenvolvimento de software criada por Kent Beck no final dos anos 90, focada em alta qualidade de código, feedback constante e adaptação rápida a mudanças.
+
+ Todas essas metodologias nos ajudarão a entregar o melhor produto possível, fornecendo organização, qualidade e produtividade.
+
+ 
 
 ---
