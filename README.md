@@ -78,8 +78,6 @@ Que contará com essas partes de cadastro, e administração de entidades que no
 
 ## Requisitos funcionais
 
-# Requisitos Funcionais
-
 | ID | Requisito Funcional |
 |---|---|
 | **RF01** | O sistema deve permitir o cadastro de usuários. |
