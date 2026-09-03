@@ -76,6 +76,40 @@ Que contará com essas partes de cadastro, e administração de entidades que no
 
 --- <table>
 
+## Requisitos Não Funcionais
+
+| ID | Regras de negócio |
+|---|---|
+| **RN01** | O acesso ao sistema deve ser permitido apenas para usuários cadastrados. |
+| **RN02** | O usuário deve fornecer e-mail e senha válidos para autenticação. |
+| **RN03** | O sistema deve bloquear o acesso após 5 tentativas de login inválidas. |
+| **RN04** | Apenas usuários com perfil de administrador podem cadastrar, editar ou excluir sensores. |
+| **RN05** | Sensores não podem ser excluídos se possuírem dados associados no sistema. |
+| **RN06** | Cada sensor deve possuir um identificador único. |
+| **RN07** | Os dados dos sensores devem ser enviados continuamente em tempo real. |
+| **RN08** | O sistema deve armazenar todos os dados recebidos dos sensores. |
+| **RN09** | Os dados de velocidade devem estar dentro dos limites operacionais definidos. |
+| **RN10** | Caso um valor ultrapasse os limites seguros, o sistema deve gerar um alerta automaticamente. |
+| **RN11** | O sistema deve registrar todas as falhas detectadas pelos sensores. |
+| **RN12** | O sistema deve priorizar a exibição de falhas críticas no dashboard. |
+| **RN13** | Os dados exibidos no dashboard devem ser atualizados automaticamente a partir do banco de dados. |
+| **RN14** | Relatórios só podem ser gerados por usuários autorizados de acordo com seu cargo. |
+| **RN15** | Os relatórios devem considerar filtros por período, sensor e trem. |
+| **RN16** | O sistema deve manter um histórico dos relatórios gerados. |
+| **RN17** | As notificações dos alertas gerados devem ser enviadas apenas para usuários autorizados. |
+| **RN18** | As informações exibidas no sistema devem seguir os padrões de visualização definidos. |
+| **RN19** | O sistema deve registrar logs de todas as operações realizadas pelos usuários. |
+| **RN20** | Os dados sensíveis devem ser protegidos conforme a LGPD e as configurações de segurança do sistema. |
+| **RN21** | O sistema deve permitir integração apenas com dispositivos IoT cadastrados. |
+| **RN22** | Cada trem monitorado deve estar vinculado a um conjunto de sensores. |
+| **RN23** | O sistema deve identificar automaticamente sensores inativos. |
+| **RN24** | Os dados históricos devem ser mantidos por um período mínimo definido, como 1 ano. |
+| **RN25** | O sistema deve permitir análise preditiva com base nos dados coletados. |
+| **RN26** | Os dados exibidos no dashboard devem permanecer consistentes durante as atualizações. |
+| **RN27** | As atualizações do sistema não devem comprometer os dados já armazenados. |
+| **RN28** | O sistema deve possuir redundância para evitar interrupções no serviço. |
+
+
 ## Requisitos funcionais
 
 | ID | Requisito Funcional |
@@ -83,7 +117,7 @@ Que contará com essas partes de cadastro, e administração de entidades que no
 | **RF01** | O sistema deve permitir o cadastro de usuários. |
 | **RF02** | O sistema deve permitir login de usuários. |
 | **RF03** | O sistema deve validar e-mail e senha. |
-| **RF04** | O sistema deve permitir recuperação de senha. |
+| **RF04** | O sistema deve disponibilizar API para integração com outros sistemas.|
 | **RF05** | O sistema deve permitir logout seguro. |
 | **RF06** | O sistema deve permitir diferentes níveis de acesso (administrador e operador). |
 | **RF07** | O sistema deve exibir lista de sensores cadastrados. |
@@ -112,9 +146,31 @@ Que contará com essas partes de cadastro, e administração de entidades que no
 | **RF30** | O sistema deve permitir agendamento de relatórios automáticos. |
 | **RF31** | O sistema deve integrar com dispositivos IoT. |
 | **RF32** | O sistema deve permitir comunicação com banco de dados central. |
-| **RF33** | O sistema deve disponibilizar API para integração com outros sistemas. |
 
+## Requisitos Não Funcionais
 
+| ID | Requisito Não Funcional |
+|---|---|
+| **RNF01** | O sistema deve ser responsivo (desktop, tablet e mobile). |
+| **RNF02** | O sistema deve ter interface intuitiva, proporcionando boa experiência do usuário (UX). |
+| **RNF03** | O sistema deve seguir padrões de acessibilidade. |
+| **RNF04** | O sistema deve possuir autenticação segura, com criptografia de senhas. |
+| **RNF05** | O sistema deve garantir a integridade dos dados. |
+| **RNF06** | O sistema deve proteger contra acessos não autorizados. |
+| **RNF07** | O sistema deve registrar logs de acesso e operações. |
+| **RNF08** | O sistema deve processar dados em tempo real. |
+| **RNF09** | O sistema deve ter tempo de resposta inferior a 2 segundos. |
+| **RNF10** | O sistema deve suportar múltiplos sensores simultaneamente. |
+| **RNF11** | O sistema deve suportar grande volume de dados, garantindo escalabilidade. |
+| **RNF12** | O sistema deve estar disponível 24 horas por dia, 7 dias por semana (24/7). |
+| **RNF13** | O sistema deve possuir tolerância a falhas. |
+| **RNF14** | O sistema deve realizar backup automático dos dados. |
+| **RNF15** | O sistema deve ser compatível com diferentes dispositivos IoT. |
+| **RNF16** | O sistema deve utilizar protocolos padrão, como MQTT e HTTP. |
+| **RNF17** | O sistema deve permitir integração com sistemas externos. |
+| **RNF18** | O sistema deve possuir código modular e bem documentado. |
+
+---
 
 
 
