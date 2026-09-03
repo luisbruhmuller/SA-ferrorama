@@ -74,7 +74,45 @@ Que contará com essas partes de cadastro, e administração de entidades que no
 * **Conclusão**: A Conclusão final sobre essa etapa é que todas as metodologias que utilizaremos, e todas as novas ferramentas, trabalharão juntos para o projeto ser concluído.
 
 
----
+--- <table>
+
+## Requisitos funcionais
+
+| ID | Requisito Funcional |
+|---|---|
+| **RF01** | O sistema deve permitir o cadastro de usuários. |
+| **RF02** | O sistema deve permitir login de usuários. |
+| **RF03** | O sistema deve validar e-mail e senha. |
+| **RF04** | O sistema deve permitir recuperação de senha. |
+| **RF05** | O sistema deve permitir logout seguro. |
+| **RF06** | O sistema deve permitir diferentes níveis de acesso (administrador e operador). |
+| **RF07** | O sistema deve exibir lista de sensores cadastrados. |
+| **RF08** | O sistema deve cadastrar novos sensores. |
+| **RF09** | O sistema deve editar informações de sensores. |
+| **RF10** | O sistema deve excluir sensores. |
+| **RF11** | O sistema deve impedir exclusão de sensores com dados associados. |
+| **RF12** | O sistema deve exibir o status dos sensores (ativo, inativo, com falha). |
+| **RF13** | O sistema deve receber dados em tempo real dos sensores IoT. |
+| **RF14** | O sistema deve exibir dados de velocidade do trem. |
+| **RF15** | O sistema deve exibir localização do trem em tempo real. |
+| **RF16** | O sistema deve exibir consumo de energia. |
+| **RF17** | O sistema deve identificar e exibir falhas detectadas. |
+| **RF18** | O sistema deve atualizar automaticamente os dados sem recarregar a página. |
+| **RF19** | O sistema deve apresentar dashboard com indicadores principais. |
+| **RF20** | O sistema deve exibir gráficos de desempenho. |
+| **RF21** | O sistema deve permitir filtros por período (dia, semana e mês). |
+| **RF22** | O sistema deve destacar alertas críticos no dashboard. |
+| **RF23** | O sistema deve gerar alertas automáticos em caso de falhas. |
+| **RF24** | O sistema deve notificar usuários sobre eventos críticos. |
+| **RF25** | O sistema deve registrar histórico de falhas. |
+| **RF26** | O sistema deve apoiar manutenção preditiva. |
+| **RF27** | O sistema deve gerar relatórios operacionais. |
+| **RF28** | O sistema deve permitir visualizar relatórios. |
+| **RF29** | O sistema deve exportar relatórios (PDF ou CSV). |
+| **RF30** | O sistema deve permitir agendamento de relatórios automáticos. |
+| **RF31** | O sistema deve integrar com dispositivos IoT. |
+| **RF32** | O sistema deve permitir comunicação com banco de dados central. |
+| **RF33** | O sistema deve disponibilizar API para integração com outros sistemas. |
 
 
 
