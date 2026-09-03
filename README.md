@@ -44,7 +44,22 @@ O projeto envolve diversas áreas do desenvolvimento de sistemas:
 ---
 
 ##  Status do Projeto
+ 
+Nesse nova etapa do projeto, nosso objetivo é pegar o código já criado nas fases anteriores, que foram criados usando apenas HTML, Css e Java Script, e agora, começaremos a usar a linguagem PHP, e alteraremos grande parte dos códigos. Agora também implementaremos o banco de dados, usando a linguagem SQL. E agora também começaremos a usar o XAMPP como servidor web local.
 
- Em desenvolvimento
+## Organização de Tasks
+
+As tasks são as tarefas dos projetos, cada task é uma ou mais implementações que a equipe de desenvolvimento deve fazer, todas elas estarão sendo organizadas com vários métodos, para definir perfeitamente: quem deve fazer cada task, até quando deve fazer, nível de importância, nível de complexidade e etc, e os métodos que utilizaremos serão;
+
+* **Kanban**: é um sistema visual de gestão de trabalho que usa cartões em um quadro para mostrar etapas, controlar tarefas e organizar o fluxo de produção.
+
+* **SCRUM**: Scrum é uma metodologia ágil usada principalmente no desenvolvimento de software, mas também pode ser aplicada em outros tipos de projetos. Ela ajuda equipes a trabalharem de forma organizada, colaborativa e adaptável.
+
+* **XP**: O método XP (Extreme Programming ou Programação Extrema) é uma metodologia ágil de desenvolvimento de software focada na alta qualidade do código e na satisfação da equipe.
 
 ---
+
+
+
+
+
