@@ -6,6 +6,9 @@ Descreva de forma objetiva as alterações.
 
 Explique o problema ou necessidade atendida.
 
+## issues relacionadas
+coloque o numero da issues relacionadas a essa PR
+
 ## Como testar?
 
 1. 
