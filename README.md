@@ -78,7 +78,7 @@ Que contará com essas partes de cadastro, e administração de entidades que no
 
 ## Requisitos funcionais
 
-----------------------------------------------------------------------------------------------
+---------|------------------------------------------------------------------------------------
 **RF01** | O sistema deve permitir o cadastro de usuários                                    |                                     
 **RF02** | O sistema deve permitir login de usuários                                         |
 **RF03** | O sistema deve validar e|mail e senha                                             |
